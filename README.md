@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/guhkun13" target="blank"><img src="https://img.shields.io/twitter/follow/guhkun13?logo=twitter&style=for-the-badge" alt="guhkun13" /></a> </p>
 
-- 🔭 I’m currently working as Backend Engineer at [https://kecilin.id/](Kecilin ID)
+- 🔭 I’m currently working as Backend Engineer at [Kecilin ID](https://kecilin.id/)
 
 - 🌱 I’m currently learning **Go, HTMX**
 
