@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/guhkun13" target="blank"><img src="https://img.shields.io/twitter/follow/guhkun13?logo=twitter&style=for-the-badge" alt="guhkun13" /></a> </p>
 
-- 🔭 I’m currently working as Backend Engineer
+- 🔭 I’m currently working as Backend Engineer at [https://kecilin.id/](Kecilin ID)
 
-- 🌱 I’m currently learning **Go, Sveltekit, DevOps, and AWS**
+- 🌱 I’m currently learning **Go, HTMX**
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available at [https://guhkun.netlify.app/](https://guhkun.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://guhkun.netlify.app/](https://guhkun.netlify.app/) 
 
 - 📝 I regularly write articles on [-](-)
 
